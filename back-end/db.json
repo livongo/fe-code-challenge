@@ -1,0 +1,52 @@
+{
+  "weights": [
+    {
+      "id": 8099903,
+      "value": 175,
+      "dateTime": "2020-11-05T07:19:51.000-07:00",
+      "isIrregular": false
+    },
+    {
+      "id": 8099803,
+      "value": 177.5684,
+      "dateTime": "2020-11-08T15:01:51.000-07:00",
+      "isIrregular": false
+    },
+    {
+      "id": 7509826,
+      "value": 178.8783,
+      "dateTime": "2020-10-19T11:17:56.000-07:00",
+      "isIrregular": false
+    },
+    {
+      "id": 7450658,
+      "value": 77.9234,
+      "dateTime": "2020-09-30T14:27:19.000-07:00",
+      "isIrregular": true
+    },
+    {
+      "id": 7999551,
+      "value": 179.1245,
+      "dateTime": "2020-11-03T13:19:09.000-07:00",
+      "isIrregular": false
+    },
+    {
+      "id": 7606794,
+      "value": 174.621125,
+      "dateTime": "2020-10-22T08:30:06.000-07:00",
+      "isIrregular": false
+    },
+    {
+      "id": 7450656,
+      "value": 56.189798453,
+      "dateTime": "2020-10-17T12:50:47.000-07:00",
+      "isIrregular": true
+    },
+    {
+      "id": 7899240,
+      "value": 180.4031458,
+      "dateTime": "2020-10-31T08:53:38.000-07:00",
+      "isIrregular": false
+    }
+  ]
+}

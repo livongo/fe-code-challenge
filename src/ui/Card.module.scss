@@ -1,0 +1,15 @@
+@import "../common/resources";
+
+.root {
+    position: relative;
+    width: 100%;
+    margin-bottom: 32px;
+    padding: 32px;
+    background-color: $color-white;
+    box-shadow: 0 4px 10px 0 rgba($color-black, 0.16);
+    border-radius: 16px;
+
+    &:last-of-type {
+        margin-bottom: 0;
+    }
+}
